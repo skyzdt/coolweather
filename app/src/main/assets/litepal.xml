@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <litepal>
     <dbname value = "cool_weather"/>
     <version value = "1"/>
@@ -7,3 +8,4 @@
         <mapping class="com.coolweather.android.db.County"/>
     </list>
 </litepal>
+<!--要哭了，注意要把asset文件夹放到main下，不是res搞错了头大-->
